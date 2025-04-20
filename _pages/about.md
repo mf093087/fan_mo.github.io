@@ -6,6 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
+---
+
+Welcome to the academic homepage of **Dr. Fan Mo**, a Marie Skłodowska-Curie Fellow and researcher at the Centre for Human-Inspired Artificial Intelligence, University of Cambridge. He is also a postdoctoral affiliate at **Trinity College**, Cambridge, and holds a joint Ph.D. from the University of Nottingham, the University of Oxford, and KTH Royal Institute of Technology. His research is positioned at the intersection of **knowledge graphs**, **graph neural networks**, **reinforcement learning**, **robotics**, and **large language models**, with applications spanning **smart manufacturing**, **computational biology**, and **autonomous systems**.
+
+Dr. Mo has authored over 40 research outputs, including 20 journal papers (14 as first or corresponding author), and has been involved in projects totalling over **£20 million** in funding. He has contributed to European Horizon 2020 and Innovate UK flagship projects, and developed industrial software solutions in collaboration with **Siemens**, **ABB**, and **KUKA**. He is the current **Chair of the Marie Curie Alumni Association China Chapter**, representing over 800 scholars.
+
+This site showcases his research, publications, teaching, and academic service.
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
